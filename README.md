@@ -1,6 +1,6 @@
 # Hi, I'm Patricia Carvalho 👋🔐
 
-Welcome to my GitHub! I'm a **Cybersecurity and IAM Governance professional** with 15+ years of experience across financial services, defense, and technology.
+Welcome to my GitHub! I'm a **Cybersecurity and IAM Governance professional** with 18 years of experience across financial services, defense, and technology.
 
 I help organizations govern **who — and what — has access** to their most critical systems.
 
@@ -8,7 +8,7 @@ I help organizations govern **who — and what — has access** to their most cr
 
 ## 🚀 About Me
 
-- 🏦 **IAM Governance Analyst** at Banco do Brasil — one of Latin America's largest financial institutions (200M+ customers)
+- 🏦 **IAM Governance Analyst** at one of Latin America's largest financial institutions (200M+ customers)
 - 🤖 Pioneering **Agentic AI Identity Governance** frameworks — defining how AI agents are identified, authenticated, and controlled in enterprise environments
 - 🔑 Specializing in **Non-Human Identity (NHI) Governance** — machine identities, service accounts, API credentials, and workload identities
 - ☁️ Working across multi-cloud environments: **Azure | GCP | IBM | LDAP | AD**
