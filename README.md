@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Patricia Carvalho 👋🔐</h1>
-<h3 align="center">IAM Governance Analyst | GRC | Cloud Identity | NHI | Zero Trust | Compliance</h3>
+<h3 align="center">IAM Governance | GRC | Risk & Compliance | Cloud Identity | NHI | Zero Trust</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/IAM%20Governance-0A66C2?style=flat-square" />
   <img src="https://img.shields.io/badge/GRC-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Risk%20&%20Compliance-0A66C2?style=flat-square" />
   <img src="https://img.shields.io/badge/Cloud%20Identity-0A66C2?style=flat-square" />
   <img src="https://img.shields.io/badge/NHI-0A66C2?style=flat-square" />
   <img src="https://img.shields.io/badge/Zero%20Trust-0A66C2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Compliance-0A66C2?style=flat-square" />
 </p>
 
 Welcome to my GitHub! I'm a Cybersecurity Governance & GRC professional with **18+ years of experience** across financial services, defense, and technology.
