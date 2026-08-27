@@ -23,10 +23,7 @@ I help organizations govern **who — and what — has access** to their most cr
 - 🤖 Pioneering **Agentic AI Identity Governance** — defining how AI agents are identified, authenticated, and controlled in enterprise environments
 - 🔑 Specializing in **Non-Human Identity (NHI) Governance** — machine identities, service accounts, and workload identities
 - 🔒 Building on **Zero Trust** principles and **Least Privilege enforcement** through IAM Policy & Normative Framework Design
-- ☁️ Working across multi-cloud environments: **Azure | GCP | LDAP | AD**
-- 🪖 Former **IT Division Coordinator** at the Brazilian Army — 8 years building and managing IT governance and security programs in high-security military environments
-- ⚙️ Former **Process Analyst** at Visotech — implementing ITIL processes and deploying open-source IT service management solutions
-- 👥 Former **Support Team Coordinator** at TOWB Tecnologia — leading technical support teams and optimizing incident response workflows
+- ☁️ Working across multi-cloud environments: **Azure | GCP | IBM**
 - 🌎 Based in Brasília, Brazil · **Open to remote opportunities with US-based organizations**
 
 ---
