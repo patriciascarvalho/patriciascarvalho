@@ -48,6 +48,10 @@ I help organizations govern **who — and what — has access** to their most cr
 **Cloud Platforms**
 `Microsoft Azure (Entra ID)` `Google Cloud Platform (GCP IAM)`
 
+---
+
+### 🗂️ Case Studies
+- [Closing the Governance Gap: Rebuilding IAM Policy for Human and Non-Human Access in Public Cloud](https://github.com/patriciascarvalho/case-studies/blob/main/Closing-the-Governance-Gap.md)
 
 ---
 
