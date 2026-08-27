@@ -34,19 +34,19 @@ I help organizations govern **who — and what — has access** to their most cr
 ### 🧭 Areas of Expertise
 
 **Governance, Risk & Compliance**
-`GRC` `Cybersecurity Governance` `Regulatory Compliance` `Risk Management` `IT Governance` `Audit & Access Certification`
+`GRC` `Cybersecurity Governance` `Information Security` `Regulatory Compliance (Financial Institutions)` `Audit & Access Certification`
 
 **Identity & Access**
-`IAM Governance` `Identity Governance and Administration (IGA)` `Non-Human Identity (NHI) Governance`
+`IAM Governance` `Identity Governance and Administration (IGA)` `Non-Human Identity (NHI) Governance` `Agentic AI Governance`
 
-**Emerging Areas**
-`Agentic AI Governance` `AI Agent Identity Security` `Machine Identity Lifecycle Management`
-
-**Frameworks**
-`Zero Trust Architecture` `Least Privilege Enforcement` `IAM Policy & Normative Framework Design` `ITIL Foundation`
+**Risk & Frameworks**
+`Zero Trust` `Risk Management`
 
 **Cloud Platforms**
-`Microsoft Azure (Entra ID)` `Google Cloud Platform (GCP IAM)`
+`Azure` `Google Cloud` `IBM`
+
+**IT Service Management**
+`ITIL` `Incident Management` `Business Continuity`
 
 ---
 
