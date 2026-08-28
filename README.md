@@ -49,6 +49,7 @@ I help organizations govern **who — and what — has access** to their most cr
 
 ### 🗂️ Case Studies
 - [Closing the Governance Gap: Rebuilding IAM Policy for Human and Non-Human Access in Public Cloud](https://github.com/patriciascarvalho/case-studies/blob/main/Closing-the-Governance-Gap.md)
+- [Governing the Identities That Govern Themselves: A Framework for Agentic AI Identity Security](https://github.com/patriciascarvalho/case-studies/blob/main/Governing-Identities-That-Govern-Themselves.md)
 
 ---
 
