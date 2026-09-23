@@ -18,7 +18,7 @@ I help organizations govern **who — and what — has access** to their most cr
 
 ### 🚀 About Me
 
-- 🏦 **IAM Governance Analyst** at Banco do Brasil, one of Latin America's largest financial institutions (200M+ customers)
+- 🏦 **IAM GRC Analyst** at Banco do Brasil, one of Latin America's largest financial institutions (200M+ customers)
 - 🛡️ Leading **Cybersecurity Governance, GRC, and Compliance** frameworks across cloud and AI agent environments
 - 🤖 Pioneering **Agentic AI Identity Governance** — defining how AI agents are identified, authenticated, and controlled in enterprise environments
 - 🔑 Specializing in **Non-Human Identity (NHI) Governance** — machine identities, service accounts, and workload identities
