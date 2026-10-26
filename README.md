@@ -50,7 +50,7 @@ I help organizations govern **who — and what — has access** to their most cr
 ### 🗂️ Case Studies
 - [Closing the Governance Gap: Rebuilding IAM Policy for Human and Non-Human Access in Public Cloud](https://github.com/patriciascarvalho/case-studies/blob/main/Closing-the-Governance-Gap.md)
 - [Governing the Identities That Govern Themselves: A Framework for Agentic AI Identity Security](https://github.com/patriciascarvalho/case-studies/blob/main/Governing-Identities-That-Govern-Themselves.md)
-- [Identity Governance Framework for Non-Human Identities in a Hybrid Multi-Cloud Environment](https://github.com/patriciascarvalho/case-studies/blob/main/iam_product_delivery.md)
+- [Identity Governance as a Product: Delivering NHI and Agentic AI Governance Across Hybrid Multi-Cloud](https://github.com/patriciascarvalho/case-studies/blob/main/Identity-Governance-as-Product.md)
 ---
 
 
